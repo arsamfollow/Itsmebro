@@ -93,7 +93,7 @@ device = {
 
 
 def u_a():
-    g = "[FBAN/FB4A;FBAV/122.0.0.17.71;FBBV/56891632;FBLC/en_US;FBRV/0;FBCR/Daoimbosoam;FBMF/Zaxcemiumom E7;FBBD/Daoimbosoam;FBPN/com.facebook.katana;FBDV/Zaxcemiumom E7;FBSV/9;FBOP/1;FBCA/arm64-v8a;]"
+    g = "[FBAN/FB4A;FBAV/125.0.0.23.80;FBBV/58971521;FBLC/en_US;FBRV/0;FBCR/Samjonkilpom;FBMF/Fgtreaopitmom R1;FBBD/Samjonkilpom;FBPN/com.facebook.katana;FBDV/Fgtreaopitmom R1;FBSV/9;FBOP/1;FBCA/arm64-v8a;]"
     return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
     
 
@@ -106,7 +106,7 @@ logo=(f"""\
 ╚╝ ╚╝╚╝╚═╝╚═══╝╚╝ ╚╝╚╝╚╝╚╝
 \033[1;37m----------------------------------------------
 \033[1;96m Owner  : ARSAM
-\033[1;92m Name   : Its me mari jan
+\033[1;92m Name   : Shahzaib jan ss do
 \033[1;93m Version:\033[1;93m 0."x"10.0 \033[1;93m
 \033[1;97m Status : Perxnl-√√ 
 \033[1;37m----------------------------------------------""")
